@@ -1,0 +1,15 @@
+{
+    "name": "mnamz/assemblr",
+    "description": "webpack creator",
+    "autoload": {
+        "psr-4": {
+            "Assemblr\\": "src/Assemblr/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aliif Zin"
+        }
+    ],
+    "require": {}
+}
